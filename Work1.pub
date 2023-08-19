@@ -20,7 +20,9 @@ This is initial commit.
 
 
 Krishna Guruvaayourappaaaa.....
+
 We can pull the repository by using the git pull command. 
 The syntax is given below: 
-$ git pull <options><remote>/<branchname>
+$ git pull
 $ git pull origin master.
+Roopa
